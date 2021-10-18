@@ -1,0 +1,1 @@
+python tfviewer.py test.tfrecord --labels-to-highlight='hand' --max-images=1000
